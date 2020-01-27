@@ -4,15 +4,15 @@
     "parameters": {
         "serverfarms_tailspin_space_game_asp_name": {
             "defaultValue": "tailspin-space-game-asp",
-            "type": "String"
+            "type": "string"
         },
         "servers_tailspin_space_game_sql_name": {
             "defaultValue": "tailspin-space-game-sql",
-            "type": "String"
+            "type": "string"
         },
         "sites_tailspin_space_game_web_name": {
             "defaultValue": "tailspin-space-game-web",
-            "type": "String"
+            "type": "string"
         },
         "location": {
             "type": "string",
